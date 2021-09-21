@@ -6,6 +6,8 @@ module.exports = {
   rules: {
     'no-proto': 0,
     'no-unused-vars': 0,
+    'react/prop-types': 0,
+    'react/self-closing-comp': 0,
     '@typescript-eslint/no-unused-vars': ['error'],
     '@typescript-eslint/camelcase': 0,
   },

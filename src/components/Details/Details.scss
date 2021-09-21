@@ -1,0 +1,19 @@
+.details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  width: 100%;
+  height: 100vh;
+}
+
+.layer {
+  width: 30%;
+  display: flex;
+  flex-direction: column;
+}
+
+.image-container {
+  align-self: center;
+  width: 90%;
+}

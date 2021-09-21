@@ -1,9 +1,10 @@
-# React TypeScript Starter Pack
+### [Link](https://tarasholiuk.github.io/goods-store-test-task-/)
 
-To use this template click `Use this template`
+### Technologies Used
 
-### Available Scripts
+ - React
+ - React router
+ - Bulma library
 
-`Deploy` - available to deploy your application to gh-pages
 
-`SCSS Preprocessor` - available to write your styles with modern style language
+
